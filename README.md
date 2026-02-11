@@ -1,2 +1,2 @@
 # Bionic-Translator
-Source code for my bionic translator, Expo-Science Project 2026
+Code source de mon projet d'Expo-Sciences 2026: le traducteur bionique, une main robotique imprimée avec une machine 3D.
